@@ -6,7 +6,6 @@ import requests
 from datetime import datetime, timedelta
 import sqlite3 
 from bs4 import BeautifulSoup
-import speech_recognition as sr
 import wikipediaapi
 import json
 import os
